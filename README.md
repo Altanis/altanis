@@ -1,9 +1,7 @@
 ### Hi there 👋
-I'm Altanis. I have experience in many programming languages, but most notably in Rust, C and JS.
+I have experience in many programming languages, but most notably in Rust, C and JS.
 
 For a brief overview of what I do, visit my [website](https://altanis.vercel.app)!
-
-Reach me at `altanis_` on Discord!
 
 ![](https://komarev.com/ghpvc/?username=Altanis)
 
